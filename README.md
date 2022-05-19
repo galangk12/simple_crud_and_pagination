@@ -1,2 +1,2 @@
-# simple_crud_and_pagination
+# Simple CRUD and Pagination Native PHP
 
